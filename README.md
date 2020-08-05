@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Kyrylo - aka [@kyryloren][website]
 
-## I'm a developer, designer, and 
+## I'm a developer, designer, and cybersecurity engineer.
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything
 - 🥅 2020 Goals: Contribute more to Open Source projects
