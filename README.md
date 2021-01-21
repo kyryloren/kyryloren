@@ -3,7 +3,7 @@
 ## I'm a developer, designer, and cybersecurity engineer.
 - 🔭 I’m currently working on freelance projects!
 - 🌱 I’m currently learning everything
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
