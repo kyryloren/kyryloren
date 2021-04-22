@@ -31,8 +31,8 @@
 <br />
 <br />
 
-<img align="left" alt="kyryloren's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kyryloren&show_icons=true&hide_border=true" />
+<img align="left" alt="kyryloren's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kyryloren&show_icons=true&theme=dark" />
 
 [website]: https://kyryloorlov.com
 [twitter]: https://twitter.com/kyryloren
-[instagram]: https://instagram.com/kyryloren
+[instagram]: https://instagram.com/kothedesigner
